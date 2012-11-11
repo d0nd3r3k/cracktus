@@ -1,0 +1,26 @@
+/* 
+    Document   : style
+    Created on : Nov 10, 2012, 3:21:14 PM
+    Author     : Apple
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.small { 
+    font-size: 12px;
+}
+.icon{
+    padding-right: 2px;
+    margin-top: 0px;
+}
+.navbar-wrapper{
+    margin-top:20px;
+}
+.center{
+    text-align: center;
+}
+#formResponse{
+    text-align: right;
+    height: 75px;
+    display: none;
+}
